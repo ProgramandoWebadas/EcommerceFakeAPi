@@ -1,0 +1,61 @@
+{
+	"posts": [
+		{
+			"id": 1,
+			"title": "Post 1"
+		},
+		{
+			"id": 2,
+			"title": "Post 2"
+		},
+		{
+			"id": 3,
+			"title": "Post 3"
+		}
+	],
+	"comments": [
+		{
+			"id": 1,
+			"body": "some comment",
+			"postId": 1
+		},
+		{
+			"id": 2,
+			"body": "some comment",
+			"postId": 1
+		}
+	],
+	"profile": {
+		"name": "typicode"
+	},
+	"offers": [
+		{
+			"id": "id1",
+			"title": "50% Off",
+			"description": "On everything",
+			"image": "https://http2.mlstatic.com/D_NQ_NP_698090-MPE42568507340_072020-W.jpg",
+			"code": "rika2021"
+		},
+		{
+			"id": "id1",
+			"title": "50% Off",
+			"description": "On everything",
+			"image": "https://http2.mlstatic.com/D_NQ_NP_698090-MPE42568507340_072020-W.jpg",
+			"code": "rika2021"
+		},
+		{
+			"id": "id1",
+			"title": "50% Off",
+			"description": "On everything",
+			"image": "https://http2.mlstatic.com/D_NQ_NP_698090-MPE42568507340_072020-W.jpg",
+			"code": "rika2021"
+		},
+		{
+			"id": "id1",
+			"title": "50% Off",
+			"description": "On everything",
+			"image": "https://http2.mlstatic.com/D_NQ_NP_698090-MPE42568507340_072020-W.jpg",
+			"code": "rika2021"
+		}
+	]
+}
