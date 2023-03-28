@@ -57,5 +57,35 @@
 			"image": "https://cdn.shopify.com/s/files/1/0380/3758/6055/products/pantalon-new-alicia-melange-O23MLPN005ME1-0082836.jpg?v=1676473049&width=360",
 			"code": "S2222S"
 		}
+	],
+	"products" : [
+		{
+			"id": "id1",
+			"title": "The Marc Jacobs",
+			"subtitle": "Traveler Tote",
+			"price": 195.0,
+			"image": "https://www.cuyana.com/dw/image/v2/BDQQ_PRD/on/demandware.static/-/Sites-master-catalog-cuyana/default/dw60696187/images/2023_01Jan/easy-tote-dark-coral/PLP_Hero_1080x1350_SP23_EasyTote_DarkCoral_Hero_2785.jpg?sw=768&sh=1152"
+		},
+		{
+			"id": "id2",
+			"title": "Axel Arigato",
+			"subtitle": "Clean 90 Tripl",
+			"price": 125.0,
+			"image": "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F26%2FCALZADO%2F007d782e-8905-4b92-b40b-de3bb5252fcf-253002119-1_121901329616_5.jpeg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=48f3ce09cedb836c04fabb298360fc9b"
+		},
+		{
+			"id": "id3",
+			"title": "RollerRabbit",
+			"subtitle": "Vado Odeselle",
+			"price": 85.25,
+			"image": "https://colgrampe.vteximg.com.br/arquivos/ids/564339-1000-1000/POJE5510V21_1.jpg?v=637463469344730000"
+		},
+		{
+			"id": "id4",
+			"title": "Theory",
+			"subtitle": "Irregular Rib Skirt",
+			"price": 75.99,
+			"image": "https://falabella.scene7.com/is/image/FalabellaPE/19466765_1?wid=800&hei=800&qlt=70"
+		}
 	]
 }
