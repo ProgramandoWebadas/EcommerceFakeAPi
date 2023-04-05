@@ -58,7 +58,7 @@
 			"code": "S2222S"
 		}
 	],
-	"products" : [
+	"products": [
 		{
 			"id": "id1",
 			"title": "The Marc Jacobs",
@@ -86,6 +86,44 @@
 			"subtitle": "Irregular Rib Skirt",
 			"price": 75.99,
 			"image": "https://falabella.scene7.com/is/image/FalabellaPE/19466765_1?wid=800&hei=800&qlt=70"
+		}
+	],
+	"categories": [
+		{
+			"id": "id1",
+			"title": "New Arrivals",
+			"description": "208 Product",
+			"image": "https://cdn.shopify.com/s/files/1/0528/8971/4880/collections/coleccion_new_arrivals.jpg?v=1676469877"
+		},
+		{
+			"id": "id2",
+			"title": "Clothes",
+			"description": "358 Product",
+			"image": "https://img.freepik.com/free-photo/shop-clothing-clothes-shop-hanger-modern-shop-boutique_1150-8886.jpg?w=2000"
+		},
+		{
+			"id": "id3",
+			"title": "Bags",
+			"description": "160 Product",
+			"image": "https://images.nymag.com/travel/visitorsguide/storesforhandbags_560.jpg"
+		},
+		{
+			"id": "id4",
+			"title": "Shoose",
+			"description": "230 Product",
+			"image": "https://www.retaildoc.com/hubfs/Shoes.webp"
+		},
+		{
+			"id": "id5",
+			"title": "Electronics",
+			"description": "130 Product",
+			"image": "https://www.reviewsxp.com/blog/wp-content/uploads/2019/01/Electronics-850x491.jpeg"
+		},
+		{
+			"id": "id6",
+			"title": "Jewelry",
+			"description": "87 Product",
+			"image": "https://northernlauren.com/wp-content/uploads/2019/04/IMG_20190414_135520-750x375.jpg"
 		}
 	]
 }
