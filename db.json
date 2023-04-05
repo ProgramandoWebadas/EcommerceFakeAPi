@@ -64,31 +64,31 @@
 			"id": "id1",
 			"title": "New Arrivals",
 			"description": "208 Product",
-			"image": "https://raw.githubusercontent.com/ProgramandoWebadas/EcommerceFakeAPi/main/images/categorie_jewelry.png"
+			"image": "https://raw.githubusercontent.com/ProgramandoWebadas/EcommerceFakeAPi/main/images/categorie_new_arrivals.png"
 		},
 		{
 			"id": "id2",
 			"title": "Clothes",
 			"description": "358 Product",
-			"image": "https://raw.githubusercontent.com/ProgramandoWebadas/EcommerceFakeAPi/main/images/categorie_jewelry.png"
+			"image": "https://raw.githubusercontent.com/ProgramandoWebadas/EcommerceFakeAPi/main/images/categorie_clothes.png"
 		},
 		{
 			"id": "id3",
 			"title": "Bags",
 			"description": "160 Product",
-			"image": "https://raw.githubusercontent.com/ProgramandoWebadas/EcommerceFakeAPi/main/images/categorie_jewelry.png"
+			"image": "https://raw.githubusercontent.com/ProgramandoWebadas/EcommerceFakeAPi/main/images/categorie_bags.png"
 		},
 		{
 			"id": "id4",
 			"title": "Shoose",
 			"description": "230 Product",
-			"image": "https://raw.githubusercontent.com/ProgramandoWebadas/EcommerceFakeAPi/main/images/categorie_jewelry.png"
+			"image": "https://raw.githubusercontent.com/ProgramandoWebadas/EcommerceFakeAPi/main/images/categorie_shoese.png"
 		},
 		{
 			"id": "id5",
 			"title": "Electronics",
 			"description": "130 Product",
-			"image": "https://raw.githubusercontent.com/ProgramandoWebadas/EcommerceFakeAPi/main/images/categorie_jewelry.png"
+			"image": "https://raw.githubusercontent.com/ProgramandoWebadas/EcommerceFakeAPi/main/images/categorie_electronics.png"
 		},
 		{
 			"id": "id6",
